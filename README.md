@@ -35,3 +35,6 @@ This project demonstrates a simple client-server interaction using Python's sock
 3. The client will connect to the server and send messages. It will display the acknowledgment received from the server.
 
 4. You can send multiple messages. To disconnect from the server, send the `!DISCONNECT` message.
+
+---
+CSE434 Computer Networks Socket Project
